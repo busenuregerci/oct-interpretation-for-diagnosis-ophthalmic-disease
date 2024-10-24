@@ -1,5 +1,4 @@
-%%
-% <http://www.mathworks.com MathWorks> 
+
 clear 
 close all
 %%

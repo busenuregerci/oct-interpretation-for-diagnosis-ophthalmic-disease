@@ -1,5 +1,13 @@
+%%
+% <http://www.mathworks.com MathWorks> 
 clear 
 close all
+%%
+% 
+%   for x = 1:10
+%       disp(x)
+%   end
+% 
 
 cd 'D:\BUSE\Desktop\oct';
 matfiles = dir('*.mat'); % Adding files
@@ -124,4 +132,3 @@ Idiffusion1 = imdiffusefilt(cA);
     title('segmentation of diffusion filter of diagonal')
 
 end
-
